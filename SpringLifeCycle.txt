@@ -12,7 +12,7 @@ Call setApplicationContext of ApplicationContextAware
 Preinitialization         (Bean PostProcessors)
 afterPropertiesSet         of InitializingBean
 Custom Init Method
-Post Initialization       (BeanPostProcessors)
+Post Initialization       (BeanPostProcessor)
   Bean Ready to Use
 Container Shutdown
 Disposable Bean's         destroy()
