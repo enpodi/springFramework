@@ -6,16 +6,16 @@ https://www.tutorialspoint.com/spring/spring_bean_post_processors.htm
 
 Instantiate
 Populate Properties
-Call setBeanName of BeanNameAware
-Call SetBeanFactoryof BeanFactoryAware
+Call setBeanName           of BeanNameAware
+Call SetBeanFactory        of BeanFactoryAware
 Call setApplicationContext of ApplicationContextAware
-Preinitialization (Bean PostProcessors)
-afterPropertiesSet of InitializingBeans
+Preinitialization         (Bean PostProcessors)
+afterPropertiesSet         of InitializingBeans
 Custom Init Method
-Post Initialization (BeanPostProcessors)
+Post Initialization       (BeanPostProcessors)
   Bean Ready to Use
 Container Shutdown
-Disposable Bean's destroy()
+Disposable Bean's         destroy()
 Call Custom Destroy Method
 
 
