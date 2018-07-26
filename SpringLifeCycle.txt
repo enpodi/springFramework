@@ -10,7 +10,7 @@ Call setBeanName           of BeanNameAware
 Call SetBeanFactory        of BeanFactoryAware
 Call setApplicationContext of ApplicationContextAware
 Preinitialization         (Bean PostProcessors)
-afterPropertiesSet         of InitializingBeans
+afterPropertiesSet         of InitializingBean
 Custom Init Method
 Post Initialization       (BeanPostProcessors)
   Bean Ready to Use
