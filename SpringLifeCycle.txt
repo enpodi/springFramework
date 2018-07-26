@@ -1,0 +1,17 @@
+
+
+https://www.udemy.com/spring-framework-5-beginner-to-guru/learn/v4/t/lecture/7403546?start=0
+
+Instantiate
+Populate Properties
+Call setBeanName of BeanNameAware
+Call SetBeanFactoryof BeanFactoryAware
+Call setApplicationContext of ApplicationContextAware
+Preinitialization (Bean PostProcessors)
+afterPropertiesSet of InitializingBeans
+Custom Init Method
+Post Initialization (BeanPostProcessors)
+  Bean Ready to Use
+Container Shutdown
+Disposable Bean's destroy()
+Call Custom Destroy Method
